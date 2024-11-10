@@ -4,7 +4,7 @@ This project involves analyzing a Pokémon dataset to gain insights into various
 # Requirements
 Dataset: http://bit.ly/data-pokemon-dsf
 
-Libraries: pandas, matplotlib, reaborn, re
+Libraries: pandas, matplotlib, seaborn, re
 
 If you have any suggestions or feedback, please don't hesitate to contact me in direct message on LinkedIn 
 
